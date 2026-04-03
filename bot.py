@@ -9,15 +9,15 @@ from telethon import TelegramClient, events
 
 
 # ================= SOZLAMALAR =================
-API_ID = 37562480
-API_HASH = "2e496abbb2d889581b0ddf9784ad257f"
+API_ID = 
+API_HASH = ""
 
 
-GEMINI_KEY = "AIzaSyDsaRCFwQBvCiqCzE6DolbeaAr2hWhJ1j8"
+GEMINI_KEY = ""
 
 
-BOT_TOKEN = "8540509120:AAGgh_q90Gp1qGEDtbSqCcSfPxtrKpUiVNo"
-TARGET_GROUP = -1003356066607 
+BOT_TOKEN = ""
+TARGET_GROUP =  
 SOURCE_GROUPS = ['@VODIY_TAKSI_XIZMATI' , -1001444235304  ,
                  '@toshkent_andijon_taksistlari',
                  '@Andijon_Toshkent_moshina',
